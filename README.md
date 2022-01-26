@@ -13,3 +13,10 @@
 
 ### 4. 영화 차트를 만듬
 ![image](https://user-images.githubusercontent.com/62534722/150112020-5e9ced73-d2a0-4f7d-b245-c4a6b6872a34.png)
+
+### 5. (3일치) 영화 차트 탭메뉴, 이미지 슬라이드, 영화 차트 반응형, 이미지 슬라이드 반응형
+## 평소 모습
+![image](https://user-images.githubusercontent.com/62534722/151091315-b2a8951e-767c-4839-9599-d0daabf05d36.png)
+
+## 일정 픽셀마다 아래의 그림처럼 이미지 슬라이드 & 차트 탭 크기 및 모양 변화
+![image](https://user-images.githubusercontent.com/62534722/151091250-e146cc4c-82f5-419e-b05d-1c68f032110e.png)
