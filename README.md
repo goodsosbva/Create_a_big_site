@@ -20,3 +20,6 @@
 
 ## 일정 픽셀마다 아래의 그림처럼 이미지 슬라이드 & 차트 탭 크기 및 모양 변화
 ![image](https://user-images.githubusercontent.com/62534722/151091250-e146cc4c-82f5-419e-b05d-1c68f032110e.png)
+
+### 6. 이벤트 섹션 추가
+![image](https://user-images.githubusercontent.com/62534722/151282677-15003c2e-4114-4cc1-be7f-1f1614272a13.png)
