@@ -23,3 +23,13 @@
 
 ### 6. 이벤트 섹션 추가
 ![image](https://user-images.githubusercontent.com/62534722/151282677-15003c2e-4114-4cc1-be7f-1f1614272a13.png)
+
+### 7. 10일치 한번에 추가 :-/
+## 7-1. 이벤트 배너 부분
+![image](https://user-images.githubusercontent.com/62534722/153345051-a906a6a5-98c0-4239-9d98-227d8db68b8b.png)
+## 7-2. 영화 예매 섹션과 관련 영화 영상 재생 섹션
+![image](https://user-images.githubusercontent.com/62534722/153345251-e895b61f-1548-4062-bacb-1713c66a7365.png)
+## 7-3. 공지사항 & help 탭 메뉴
+![image](https://user-images.githubusercontent.com/62534722/153345382-c89298c4-aaa8-4e5b-92c7-338f4a922430.png)
+## 7-4. 마무리 푸터
+![image](https://user-images.githubusercontent.com/62534722/153345428-54fad2d7-7783-4067-820c-19c7364975f4.png)
