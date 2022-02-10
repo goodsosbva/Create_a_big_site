@@ -33,3 +33,7 @@
 ![image](https://user-images.githubusercontent.com/62534722/153345382-c89298c4-aaa8-4e5b-92c7-338f4a922430.png)
 ## 7-4. 마무리 푸터
 ![image](https://user-images.githubusercontent.com/62534722/153345428-54fad2d7-7783-4067-820c-19c7364975f4.png)
+
+
+### 8. 최종 사이트 모습
+![image](https://user-images.githubusercontent.com/62534722/153346336-d385d74a-1f4c-48d0-981f-d23d4274d620.png)
